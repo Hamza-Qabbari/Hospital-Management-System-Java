@@ -1,0 +1,8 @@
+A001,admin,admin123,ADMIN
+D001,dr_ahmed,pass123,DOCTOR
+D002,dr_mona,pass123,DOCTOR
+D003,dr_tariq,pass123,DOCTOR
+P001,omar_k,pass123,PATIENT
+P002,sara_m,pass123,PATIENT
+P003,kareem_s,pass123,PATIENT
+P004,hamza_h,pass123,PATIENT
