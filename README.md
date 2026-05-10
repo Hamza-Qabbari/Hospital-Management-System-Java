@@ -69,3 +69,14 @@ Run the following commands in your terminal to set up and start the system:
    ```
    java LoginFrame
    ```
+## Demo Credentials
+
+To quickly test the application without looking into the database files, you can use the following default credentials:
+
+| Role  | Username | Password |
+| :---  | :---     | :---     |
+| **Admin** | `admin`    | `admin123` |
+| **Doctor** | `dr_ahmed` | `pass123`  |
+| **Patient**| `hamza_h`  | `pass123`  |
+
+---
