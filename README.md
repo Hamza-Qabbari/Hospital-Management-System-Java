@@ -31,6 +31,7 @@ We developed a user-friendly graphical interface using **Java Swing** to visuali
 
 <img width="912" height="599" alt="image" src="https://github.com/user-attachments/assets/eda04067-59c9-4367-95ae-c32971512bd2" />
 
+<br>
 
 1. **Dynamic Scheduling Logic:** The appointment system features built-in algorithmic checks to prevent double-booking conflicts, ensuring schedule integrity across all doctors.
 2. **Role-Based Workflows:** The system isolates environments based on credentials. Admins control the ecosystem, Doctors manage their queues and update statuses, and Patients self-service their bookings.
